@@ -1,5 +1,5 @@
-track less_120bp
-bigDataUrl .bw
+track 190125_het_IgG_n9
+bigDataUrl 190125_het_IgG_n9_S9_filtered.bw
 shortLabel Small
 longLabel fun
 type bigWig
