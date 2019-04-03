@@ -1,5 +1,5 @@
-hub exampleHubGroupings
-shortLabel multiWig composite superTrack hub
-longLabel A hub using containter multiWig, compositeTrack on, and superTrack on.
+hub CutnRun_hub
+shortLabel CutnRun_RLS_1
+longLabel CutnRun of E10.5 heart tissue and additional samples
 genomesFile genomes.txt
-email address@university.edu
+email rlinares@upenn.edu
