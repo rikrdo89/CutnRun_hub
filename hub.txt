@@ -1,0 +1,5 @@
+hub exampleHubGroupings
+shortLabel multiWig composite superTrack hub
+longLabel A hub using containter multiWig, compositeTrack on, and superTrack on.
+genomesFile genomes.txt
+email address@university.edu
